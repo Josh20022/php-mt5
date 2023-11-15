@@ -1,12 +1,12 @@
 {
-    "name": "Alisafirzadeh/php-mt5",
+    "name": "alisafirzadeh/php-mt5",
     "version": "1.7.1",
     "description": "A Metatrader 5 Web API Wrapper for Laravel",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Alisafirzadeh",
+            "name": "Ali",
             "email": "ali.safir1370@gmail.com"
         }
     ],
