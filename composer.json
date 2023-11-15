@@ -24,5 +24,6 @@
             "url": "https://github.com/alisafirzadeh/php-mt5"
         }
     ],
+    "minimum-stability": "stable",
     "prefer-stable": true
 }
