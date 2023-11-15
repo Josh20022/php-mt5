@@ -20,11 +20,9 @@
             "url": "https://github.com/alisafirzadeh/php-mt5"
         }
     ],
-    "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
         "laravel/framework": "^9.0|^10.0",
-        "php": "^8.0",
-        "alisafirzadeh/php-mt5": "dev-main"
+        "php": "^8.0"
     }
 }
