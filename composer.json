@@ -1,5 +1,6 @@
 {
     "name": "alisafirzadeh/php-mt5",
+    "version": "1.7.1",
     "description": "A Metatrader 5 Web API Wrapper for Laravel",
     "type": "library",
     "license": "MIT",
@@ -15,7 +16,6 @@
         }
     },
     "require": {
-        "alisafirzadeh/php-mt5": "dev-main",
         "php": "^8.0",
         "laravel/framework": "^9.0"
     },
@@ -26,5 +26,6 @@
         }
     ],
     "minimum-stability": "stable",
+
     "prefer-stable": true
 }
