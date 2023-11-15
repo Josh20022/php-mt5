@@ -24,7 +24,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/alisafirzadeh/php-mt5"
+            "url": "git@github.com:Alisafirzadeh/php-mt5.git"
         }
     ],
     "minimum-stability": "alpha",
